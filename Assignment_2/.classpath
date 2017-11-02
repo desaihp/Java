@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Fibonacci/src"/>
+	<classpathentry kind="src" path="FizzBuzz/src"/>
+	<classpathentry kind="src" path="Random_Variables/src"/>
+	<classpathentry kind="src" path="SumOfDigits/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Fibonacci/bin"/>
+</classpath>

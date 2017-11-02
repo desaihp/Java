@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\MS Electrical and Electronics Engineering\QA_Trainning\Apex\Homeworks\Eclipse_Examples\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Addition/src"/>
+	<classpathentry kind="src" path="Aggregation/src"/>
+	<classpathentry kind="src" path="Aggregation1/src"/>
+	<classpathentry kind="src" path="Constructor/src"/>
+	<classpathentry kind="src" path="Conversion1/src/main/java"/>
+	<classpathentry kind="src" path="Hello World/sample/src"/>
+	<classpathentry kind="src" path="if-else/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="JavaControlStatements/src"/>
+	<classpathentry kind="src" path="JavaPrograms/src"/>
+	<classpathentry kind="src" path="Keywords/src"/>
+	<classpathentry kind="src" path="ObjectClass/src"/>
+	<classpathentry kind="src" path="Polymorphism/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Addition/bin"/>
+</classpath>
